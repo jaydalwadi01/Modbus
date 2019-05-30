@@ -1,4 +1,4 @@
-Modbus	 		                KEYWORD1
-WriteSingleRegister	            KEYWORD2
-ReadSingleRegister	            KEYWORD2
-CircuitDiagnosisAndSetting      KEYWORD2
+Modbus	KEYWORD1
+WriteSingleRegister	KEYWORD2
+ReadSingleRegister	KEYWORD2
+CircuitDiagnosisAndSetting	KEYWORD2
